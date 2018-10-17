@@ -1,4 +1,4 @@
 # web
-simple map link
+simple folium map link
 
 link to the site: https://vrowmuria.github.io/web/plot_data.html
