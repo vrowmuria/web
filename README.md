@@ -1,4 +1,3 @@
-# web
-simple folium map link
+## A simple folium map
 
-link to the site: https://vrowmuria.github.io/web/plot_data.html
+Link to the folium map example: https://vrowmuria.github.io/web/plot_data.html
